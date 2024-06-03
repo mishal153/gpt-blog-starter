@@ -1,13 +1,12 @@
 ---
-"title": "Bubble Tea: The Boba Phenomenon"
-"excerpt": "Explore the rise of bubble tea, its origins, varieties, and why it boldly stands as a divisive treat in the world of tea."
-"coverImage": "/images/posts/bubble-tea-the-boba-phenomenon.png"
-"date": "2024-06-03T14:40:01.8737342+10:00"
-"author":
-  "name": "Tea Treasury"
-"ogImage":
-  "url": "/images/posts/bubble-tea-the-boba-phenomenon.png"
-
+title: "Bubble Tea: The Boba Phenomenon"
+excerpt: "Explore the rise of bubble tea, its origins, varieties, and why it boldly stands as a divisive treat in the world of tea."
+coverImage: "/images/posts/bubble-tea-the-boba-phenomenon.png"
+date: "2024-06-03T14:46:02.8583629+10:00"
+author:
+  name: Tea Treasury
+ogImage:
+  url: "/images/posts/bubble-tea-the-boba-phenomenon.png"
 ---
 
 Ah, bubble tea—love it or hate it, there's no denying that this unique beverage has taken the world by storm. From its humble beginnings in Taiwan to the kaleidoscopic drink it is today, bubble tea, also known as boba tea, commands an impressive presence in the tea universe. But is it truly deserving of all the hype, or is it just a passing fad? Let's dive into this tantalizing beverage and stir up some heated debate along the way.
@@ -56,7 +55,7 @@ Brace yourself—this is where the frothy surface gets churned. The extraordinar
 ### Critics' Stance
 
 1. **Nutrient Void**: Critics argue it packs more sugar than nutrition, likening it to liquid candy.
-2. **Caloric Bomb**: A standard serving can skyrocket to 500+ calories.
+2. **Caloric Bomb**: A standard serving can skyrocket to 500+ calories. With the combination of sugary syrups, full-fat milk, and tapioca pearls, some servings can reach the calorie content of a full meal, without offering similar nutritional benefits.
 3. **Environmental Concerns**: Single-use plastics for cups and straws are a significant downside.
 4. **Overhyped Market**: Some argue that it's a trendy product riding a wave of social media influence rather than genuine preference.
 
